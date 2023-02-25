@@ -1,0 +1,14 @@
+13
+Kim 10
+Lee 20
+Park 15
+Choi 17
+Song 20
+Kang 13
+Min 5
+Cha 10
+Bang 20
+Na 31
+Pyo 40
+Han 17
+Ryu 23
