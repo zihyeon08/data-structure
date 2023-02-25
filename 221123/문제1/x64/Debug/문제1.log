@@ -1,0 +1,5 @@
+﻿  황지현.c
+C:\Users\h3640\Desktop\221123\문제1\황지현.c(86,9): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+C:\Users\h3640\Desktop\221123\문제1\황지현.c(86,6): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+C:\Users\h3640\Desktop\221123\문제1\황지현.c(33): warning C4716: 'setunion': 값을 반환해야 합니다.
+  문제1.vcxproj -> C:\Users\h3640\Desktop\221123\x64\Debug\문제1.exe
