@@ -1,0 +1,3 @@
+﻿  pb2.c
+C:\Users\h3640\Desktop\220919\문제2\pb2.c(38,19): warning C4022: 'free': 실제 매개 변수 1의 포인터가 일치하지 않습니다.
+  문제2.vcxproj -> C:\Users\h3640\Desktop\220919\x64\Debug\문제2.exe
