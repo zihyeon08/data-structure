@@ -1,0 +1,9 @@
+Kim 5
+Lee 3
+Park 1
+Choi 2
+Song 4
+Kang 6
+Na 2
+Cho 10
+Jung 5
