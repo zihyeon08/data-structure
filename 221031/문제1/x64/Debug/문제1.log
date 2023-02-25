@@ -1,0 +1,19 @@
+﻿  황지현.c
+C:\Users\h3640\Desktop\221031\문제1\황지현.c(35,9): warning C4013: 'isEmpty'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\h3640\Desktop\221031\문제1\황지현.c(36,13): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'element'입니다.
+C:\Users\h3640\Desktop\221031\문제1\황지현.c(41,13): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'element'입니다.
+C:\Users\h3640\Desktop\221031\문제1\황지현.c(41,13): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'element'입니다.
+C:\Users\h3640\Desktop\221031\문제1\황지현.c(50,13): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'element'입니다.
+C:\Users\h3640\Desktop\221031\문제1\황지현.c(55,13): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'element'입니다.
+C:\Users\h3640\Desktop\221031\문제1\황지현.c(55,13): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'element'입니다.
+C:\Users\h3640\Desktop\221031\문제1\황지현.c(64,13): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'element'입니다.
+C:\Users\h3640\Desktop\221031\문제1\황지현.c(69,13): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'element'입니다.
+C:\Users\h3640\Desktop\221031\문제1\황지현.c(69,13): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'element'입니다.
+C:\Users\h3640\Desktop\221031\문제1\황지현.c(78,13): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'element'입니다.
+C:\Users\h3640\Desktop\221031\문제1\황지현.c(83,13): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'element'입니다.
+C:\Users\h3640\Desktop\221031\문제1\황지현.c(83,13): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'element'입니다.
+C:\Users\h3640\Desktop\221031\문제1\황지현.c(120,45): warning C4047: '=': 'queuePointer'의 간접 참조 수준이 'queuePointer *'과(와) 다릅니다.
+C:\Users\h3640\Desktop\221031\문제1\황지현.c(135,3): warning C4033: 'deleteq'은(는) 값을 반환해야 합니다.
+C:\Users\h3640\Desktop\221031\문제1\황지현.c(150,10): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'element'입니다.
+C:\Users\h3640\Desktop\221031\문제1\황지현.c(141): warning C4715: 'deleteq': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  문제1.vcxproj -> C:\Users\h3640\Desktop\221031\x64\Debug\문제1.exe
