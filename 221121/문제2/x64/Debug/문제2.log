@@ -1,0 +1,4 @@
+﻿  황지현2.c
+C:\Users\h3640\Desktop\221121\문제2\황지현2.c(77,6): warning C4101: 'dfsche' :참조되지 않은 지역 변수입니다.
+C:\Users\h3640\Desktop\221121\문제2\황지현2.c(77,14): warning C4101: 'bfsche' :참조되지 않은 지역 변수입니다.
+  문제2.vcxproj -> C:\Users\h3640\Desktop\221121\x64\Debug\문제2.exe
