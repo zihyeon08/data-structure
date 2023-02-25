@@ -1,0 +1,5 @@
+﻿  황지현2.c
+C:\Users\h3640\Desktop\221019\문제2\황지현2.c(71,10): warning C4133: '=': 'polyNode *'과(와) 'NODE *' 사이의 형식이 호환되지 않습니다.
+C:\Users\h3640\Desktop\221019\문제2\황지현2.c(95,6): warning C4101: 'sum' :참조되지 않은 지역 변수입니다.
+C:\Users\h3640\Desktop\221019\문제2\황지현2.c(112,13): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+  문제2.vcxproj -> C:\Users\h3640\Desktop\221019\x64\Debug\문제2.exe
