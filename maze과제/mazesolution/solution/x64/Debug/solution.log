@@ -1,0 +1,4 @@
+﻿  황지현.c
+C:\Users\h3640\Desktop\maze과제\mazesolution\solution\황지현.c(60,9): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+C:\Users\h3640\Desktop\maze과제\mazesolution\solution\황지현.c(60,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  solution.vcxproj -> C:\Users\h3640\Desktop\maze과제\mazesolution\x64\Debug\solution.exe
